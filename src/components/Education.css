@@ -1,0 +1,30 @@
+.education {
+  margin: 20px;
+  padding: 20px;
+  background-color: #ffffff; /* Example background color */
+  text-align: left;
+}
+
+.education h2 {
+  color: #333; /* Example text color */
+  margin-bottom: 15px;
+}
+
+.education .education-entry {
+  margin-bottom: 15px;
+}
+
+.education .education-entry h3 {
+  color: #444; /* Example text color */
+  margin: 0;
+}
+
+.education .education-duration {
+  color: #666; /* Example text color */
+  font-style: italic;
+}
+
+.education .education-description {
+  color: #666; /* Example text color */
+  line-height: 1.6;
+}

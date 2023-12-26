@@ -1,0 +1,30 @@
+.skills {
+  margin: 20px;
+  padding: 20px;
+  background-color: #ffffff; /* Example background color */
+  text-align: left;
+}
+
+.skills h2 {
+  color: #333; /* Example text color */
+  margin-bottom: 15px;
+}
+
+.skills .skill-set {
+  margin-bottom: 15px;
+}
+
+.skills .skill-set h3 {
+  color: #444; /* Example text color */
+  margin-bottom: 10px;
+}
+
+.skills ul {
+  list-style-type: none; /* Removes the default list styling */
+  padding: 0;
+}
+
+.skills li {
+  color: #666; /* Example text color */
+  line-height: 1.6;
+}
